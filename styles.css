@@ -1,0 +1,82 @@
+.header__content-title{
+    text-align: center;
+margin: 0;
+font-size: 34px;
+font-weight: 700;
+}
+.header__content-description{
+    text-align: center;
+margin: 0;
+font-size: 34px;
+font-weight: 700; 
+font-family: "Marck Script";
+src: url(fonts/MarckScript-Regular.ttf);
+}
+.menu__list{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    list-style-type: none;}
+ 
+   
+
+html{
+    background-color: gainsboro;
+}
+@font-face{
+    font-family: "Marck Script";
+    src: url(fonts/MarckScript-Regular.ttf);
+}
+.header__content-description{
+    font-family: "Marck Script";
+    src: url(fonts/MarckScript-Regular.ttf);  
+}
+.portfolio__btn{
+    display: inline-block;
+    padding: 11px 47px;
+    color: #E0FFFF;
+    border-radius: 12px;
+    background-color: #2E8B57;
+    border: none;
+outline: 1px sollid transparent;
+outline-offset: 2px;
+}
+.title{
+font-size: 25px;
+font-family: "Marck Script";
+src: url(fonts/MarckScript-Regular.ttf); 
+}
+.nature__title title{
+    font-family: "Marck Script";
+    src: url(fonts/MarckScript-Regular.ttf); 
+}
+.nature__text{
+    font-size: 20px;
+}
+.about__text{
+    font-size: 20px;  
+    
+}
+.header__content-title{
+    font-family: "Marck Script";
+    src: url(fonts/MarckScript-Regular.ttf);  
+}
+.photo-photo{
+    height: 170px;
+    width: 220px;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px #8B4513;
+}
+.portfolio__item-title{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 3px;
+}
+.container-footer{
+    display: flex;
+    align-items: center; 
+    gap: 10px;
+    font-size: 16px;  
+    padding: 10px;
+}
